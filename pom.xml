@@ -65,6 +65,12 @@
       <artifactId>h2</artifactId>
     </dependency>
 
+    <dependency>
+      <groupId>uk.gorodny</groupId>
+      <artifactId>camunda-variable-wrapper</artifactId>
+      <version>0.0.1</version>
+    </dependency>
+
   </dependencies>
 
   <build>

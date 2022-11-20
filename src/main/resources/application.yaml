@@ -1,3 +1,7 @@
 camunda.bpm.admin-user:
   id: demo
   password: demo
+
+application:
+  loan:
+    monthCount: 24
