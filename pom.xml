@@ -66,6 +66,16 @@
     </dependency>
 
     <dependency>
+      <groupId>org.camunda.connect</groupId>
+      <artifactId>camunda-connect-core</artifactId>
+    </dependency>
+
+    <dependency>
+      <groupId>org.camunda.connect</groupId>
+      <artifactId>camunda-connect-connectors-all</artifactId>
+    </dependency>
+
+    <dependency>
       <groupId>uk.gorodny</groupId>
       <artifactId>camunda-variable-wrapper</artifactId>
       <version>0.0.1</version>
